@@ -1,0 +1,8 @@
+call the global obj
+call only the key
+call all core modules
+
+play with console module
+const petsArray = ['dog', 'cat', 'bird', 'monkey'];
+
+os module: show the properties 
